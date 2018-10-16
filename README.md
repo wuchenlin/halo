@@ -123,11 +123,4 @@ Halo的诞生离不开下面这些项目：
 - [Pjax](https://github.com/defunkt/jquery-pjax.git)：pushState + ajax = pjax
 - [OwO](https://github.com/DIYgod/OwO)：前端表情库
 
-## 捐赠
-
-> 如果Halo对你有帮助，可以请作者喝瓶娃哈哈哈哈哈哈哈哈哈哈。
-
-| 支付宝  | 微信  |
-| :------------: | :------------: |
-| <img src="http://pgo8tdeno.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181016105854.jpg" width="150"/>  | <img src="http://pgo8tdeno.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181016105902.jpg" width="150" /> 
 
