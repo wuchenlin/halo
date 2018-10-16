@@ -4,7 +4,7 @@
 
 > Halo可能是最好的Java博客系统。
 
-[![JDK](https://img.shields.io/badge/JDK-1.8-yellow.svg)](#)
+[![JDK](https://img.shields.io/badge/JDK-1.10-yellow.svg)](#)
 [![GitHub release](https://img.shields.io/github/release/ruibaby/halo.svg)](https://github.com/ruibaby/halo/releases)
 [![Travis CI](https://img.shields.io/travis/ruibaby/halo.svg)](https://travis-ci.org/ruibaby/halo)
 
@@ -21,8 +21,6 @@
 - [主题](#主题)
 - [许可证](#许可证)
 - [后续功能](#后续功能)
-- [感谢](#感谢)
-- [捐赠](#捐赠)
 
 ## 简介
 
@@ -131,6 +129,5 @@ Halo的诞生离不开下面这些项目：
 
 | 支付宝  | 微信  | 支付宝红包  |
 | :------------: | :------------: | :------------: |
-| <img src="https://cdn.ryanc.cc/img/github/donate/alipay.png" width="150"/>  | <img src="https://cdn.ryanc.cc/img/github/donate/wechat.png" width="150" />  | <img src="https://cdn.ryanc.cc/img/github/donate/hongbao.png" width="150" />  |
-
+| <img src="http://pgo8tdeno.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181016105854.jpg" width="150"/>  | <img src="http://pgo8tdeno.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181016105902.jpg" width="150" /> 
 
